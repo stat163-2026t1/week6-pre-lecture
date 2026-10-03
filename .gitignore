@@ -1,0 +1,10 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+README.html
+README_files/
+_grading/
+retail.csv
+retail.parquet
+from_excel.parquet

@@ -1,0 +1,13 @@
+[project]
+name = "stat163-2026t1-week6-pre-lecture"
+version = "0.1.0"
+description = "STAT163 Week 6 pre-lecture notebook — data formats"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.0",
+    "numpy",
+    "pyarrow",
+    "openpyxl",
+    "requests",
+    "jupyterlab>=4.0",
+]
